@@ -24,5 +24,7 @@ Beim Abspielen wird for dem Anfang ein kurzes Pieps Signal ausgegeben. Das Ende 
 
 Und jetzt ... viel Erfolg beim Testen
 
+PS: ´damit das script immer zur Verfügung steht liegt es bei mir unter /usr/local/bin (sudo ist Dein Freund). Danach ein rehash und alles ist in Butter ....
+
 # Copyright
 Karl-Heinz Welter & claude.ai, 2026-02-04
