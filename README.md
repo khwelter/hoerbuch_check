@@ -12,11 +12,11 @@ Das Script an sich kann irgenwo liegen, wer's verwenden will sollte sich mit der
 
 Aufruf:
 
-> ./check.sh [--anfang] [--ende] <Liste der Dateien>
+> ./check.sh [--anfang] [--ende] [Dateiliste *.wav]
 
-Wenn --anfang und --ende weggelassen werden, dann werden sowohl die ersten und die letzten 10 Sekunden über den eingebauten <lautsprecher abgespielt.
+Wenn --anfang und --ende weggelassen werden, dann werden sowohl die ersten als auch  die letzten 10 Sekunden der WAV-Datei(en) über den eingebauten Lautsprecher abgespielt.
 
-Wenn die Dateiliste leer ist, dann werden alle Audio Dateien im aktuellen Verzeichnis an- und aus-gelesen.
+Wenn die Dateiliste leer ist, dann werden alle Audio Dateien (*.wav) im aktuellen Verzeichnis an- und aus-gelesen.
 
 Die Daten von dem ACX Check werden immer ausgegeben.
 
